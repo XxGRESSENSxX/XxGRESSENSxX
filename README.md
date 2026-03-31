@@ -1,33 +1,31 @@
-# 👋 Olá, eu sou a Gabriela Gressens
+# 👋 Olá, eu sou Gabriela Gressens
 
-Veterinária apaixonada pela intersecção entre biotecnologia, biologia molecular e tecnologia da informação.
+**Médica Veterinária (CRMV-SP) | Pesquisadora em Biotecnologia | Jr. Python Developer 🐣**
 
-## Pesquisa e Desenvolvimento
-
-Meu foco atual aqui no Github é a **Simulação *In Silico*** aplicada à farmacologia e dinâmica populacional multiparamétrica, mas além disso, estou estudando sobre oncologia molecular e efeitos da diapausa em células tumorais de linhagens agressivas.
-
-## Projeto em Destaque: **BioSim v2.5**
-
-O **BioSim** é um simulador multiparamétrico de farmacodinâmica que integra alometria avançada para predizer respostas fisiológicas em tempo real.
-
-- **Tecnologias:** Python | Streamlit | GenAI | Numpy
-- **Licença:** Apache 2.0 (Proteção Acadêmica de Patente)
-- **Foco Futuro:** Validação acadêmica, atualização para um modelo de IA própria e publicação peer-reviewed.
+Sou uma veterinária explorando o mundo da tecnologia! Estou aprendendo programação para criar ferramentas que ajudem na ciência. O **BioSim** é meu primeiro grande projeto unindo medicina e código.
 
 ---
 
-## Habilidades Técnicas
+## Meu Primeiro Projeto: **BioSim v2.5**
 
-Python (Streamlit/Pandas/Numpy), Modelagem Computacional, Farmacologia Veterinária, Biologia Molecular.
+O **BioSim** é um simulador multiparamétrico de farmacodinâmica para predição de respostas fisiológicas em tempo real.
 
+- **O que estou usando para aprender:** Python, Streamlit e NumPy.
+- **Foco:** Unir o rigor da medicina com a lógica da Programação.
+- **Licença:** Apache 2.0 (Para proteger minha ideia enquanto estudo).
 
 ---
 
-## Conecte-se Comigo
+## O que estou estudando agora:
 
-Dúvidas sobre o BioSim ou colaborações em pesquisa acadêmica? 
+- **Linguagens:** Python (do zero ao simulador!).
+- **Ciência:** Biologia Molecular e Farmacologia Comparada.
+- **Interesses:** Criar ferramentas que ajudem a formar ótimos profissionais da saúde.
+---
+
+## Quer me contatar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-gressens/)
-[![Lattes](https://img.shields.io/badge/Currículo_Lattes-1e90ff?style=for-the-badge&logo=google-scholar&logoColor=white)](https://lattes.cnpq.br/seu_id_aqui)
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-1e90ff?style=for-the-badge&logo=google-scholar&logoColor=white)](https://lattes.cnpq.br/9712711718873426)
 
 ---
