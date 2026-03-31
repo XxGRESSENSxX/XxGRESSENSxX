@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gabriela Gressens
 
-**Médica Veterinária (CRMV-SP) | Pesquisadora em Biotecnologia | Jr. Python Developer 🐣**
+**Médica Veterinária (CRMV-SP) | Biotecnologia | Jr. Python Developer 🐣**
 
 Sou uma veterinária explorando o mundo da tecnologia! Estou aprendendo programação para criar ferramentas que auxiliem no meio cientifico e acadêmico. O **BioSim** é meu primeiro grande projeto unindo medicina e código.
 
