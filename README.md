@@ -8,7 +8,7 @@ Meu foco atual aqui no Github é a **Simulação *In Silico*** aplicada à farma
 
 ## 🚀 Projeto em Destaque: **BioSim v2.5**
 
-O **BioSim** é um simulador multiparamétrico de farmacodinâmica que integra alometria avançada (gordura vs. massa magra) para predizer respostas fisiológicas em tempo real.
+O **BioSim** é um simulador multiparamétrico de farmacodinâmica que integra alometria avançada para predizer respostas fisiológicas em tempo real.
 
 - 🖥️ **Tecnologias:** Python | Streamlit | GenAI | Numpy
 - 🛡️ **Licença:** Apache 2.0 (Proteção Acadêmica de Patente)
