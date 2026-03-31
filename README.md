@@ -2,28 +2,28 @@
 
 Veterinária apaixonada pela intersecção entre biotecnologia, biologia molecular e tecnologia da informação.
 
-## 🔬 Pesquisa e Desenvolvimento
+## Pesquisa e Desenvolvimento
 
 Meu foco atual aqui no Github é a **Simulação *In Silico*** aplicada à farmacologia e dinâmica populacional multiparamétrica, mas além disso, estou estudando sobre oncologia molecular e efeitos da diapausa em células tumorais de linhagens agressivas.
 
-## 🚀 Projeto em Destaque: **BioSim v2.5**
+## Projeto em Destaque: **BioSim v2.5**
 
 O **BioSim** é um simulador multiparamétrico de farmacodinâmica que integra alometria avançada para predizer respostas fisiológicas em tempo real.
 
-- 🖥️ **Tecnologias:** Python | Streamlit | GenAI | Numpy
-- 🛡️ **Licença:** Apache 2.0 (Proteção Acadêmica de Patente)
-- 📝 **Foco Futuro:** Validação acadêmica, atualização para um modelo de IA própria e publicação peer-reviewed.
+- **Tecnologias:** Python | Streamlit | GenAI | Numpy
+- **Licença:** Apache 2.0 (Proteção Acadêmica de Patente)
+- **Foco Futuro:** Validação acadêmica, atualização para um modelo de IA própria e publicação peer-reviewed.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## Habilidades Técnicas
 
 Python (Streamlit/Pandas/Numpy), Modelagem Computacional, Farmacologia Veterinária, Biologia Molecular.
 
 
 ---
 
-## 📫 Conecte-se Comigo
+## Conecte-se Comigo
 
 Dúvidas sobre o BioSim ou colaborações em pesquisa acadêmica? 
 
