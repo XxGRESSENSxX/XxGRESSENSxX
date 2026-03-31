@@ -2,7 +2,7 @@
 
 **Médica Veterinária (CRMV-SP) | Pesquisadora em Biotecnologia | Jr. Python Developer 🐣**
 
-Sou uma veterinária explorando o mundo da tecnologia! Estou aprendendo programação para criar ferramentas que ajudem na ciência. O **BioSim** é meu primeiro grande projeto unindo medicina e código.
+Sou uma veterinária explorando o mundo da tecnologia! Estou aprendendo programação para criar ferramentas que auxiliem no meio cientifico e acadêmico. O **BioSim** é meu primeiro grande projeto unindo medicina e código.
 
 ---
 
