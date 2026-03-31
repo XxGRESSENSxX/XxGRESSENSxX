@@ -23,9 +23,3 @@ O **BioSim** é um simulador multiparamétrico de farmacodinâmica para prediç�
 - **Interesses:** Criar ferramentas que ajudem a formar ótimos profissionais da saúde.
 ---
 
-## Quer me contatar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-gressens/)
-[![Lattes](https://img.shields.io/badge/Currículo_Lattes-1e90ff?style=for-the-badge&logo=google-scholar&logoColor=white)](https://lattes.cnpq.br/9712711718873426)
-
----
